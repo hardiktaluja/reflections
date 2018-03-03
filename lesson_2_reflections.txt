@@ -37,3 +37,13 @@ the diagram the way we do?
 	After merging two branches, the features of both the branches get updated
 	in the main branch. We can represent in the diagram so that it helps is to
 	visualize things better, and we can keep a track of updates easily.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+	Git's automatic merging is helpful only when there are no conflicting
+	commits, and when there are, we have manually resolve the conflicts, and
+	then merge the branches. So, both do their job perfectly. When we don't
+	want conflicts to happen, like adding our code, but other's code get
+	removed, then in such a case, automatic merging should fail, and it does.
+	And we then have to decide what we want to get down to.
