@@ -26,3 +26,8 @@ organized? How would branches help?
 	and we can work the changes in the new branch. Also, if we are successful,
 	we can also merge the branch with the master branch.
 
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams are great because now we can see where exactly a particular branch
+	starts from. Also, we can see the unreachable commits.
+
