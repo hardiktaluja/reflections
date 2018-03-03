@@ -17,3 +17,12 @@ change?
 	To ensure one commit per logical change, we can add only those files to the
 	staging area, that are logically connected. Then, we can commit only those
 	files, and rest files can be committed in the next commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	We can use branches to try something new which we are not sure of, if it
+	will work or not. So, the main code will remain intact in the master branch
+	and we can work the changes in the new branch. Also, if we are successful,
+	we can also merge the branch with the master branch.
+
