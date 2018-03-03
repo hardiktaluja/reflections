@@ -11,4 +11,9 @@ What value do you think it offers?
 	repository contains all the files, and other directories, which may or may
 	not be in the staging area.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
 
+	To ensure one commit per logical change, we can add only those files to the
+	staging area, that are logically connected. Then, we can commit only those
+	files, and rest files can be committed in the next commit.
