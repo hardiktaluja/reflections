@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	It was helpful because now we don't have to manually compare the entire 
+	code to find the changes. The diff or the fc command automatically display
+	all the	changes made.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Previous versions will help to find errors quickly, restore to some point
+	where there were no errors. Also, it will enable to see the changes made by
+	other people working on the same project.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+	Saving automatically can lead to a large number of unnecessay versions,
+	without having much changes. But having the flexibility to choose manually,
+	we can save after every meaningful change, which will make more sense.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	It is because while making a project, multiple files are inter-related,
+	and we might make changes to multiple files in a single commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log will output all the commits that were made to the files, and the
+	git diff can be given two commit ids, and it will list all the differences
+	between both the files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	By using git checkout, we can revert back to the commit where there was no
+	error, so we can be confident to make changes, because even if we break
+	something, we can always revert back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I will be using Git for version control for all of my projects, as well as
+	for collaborating with other people.
