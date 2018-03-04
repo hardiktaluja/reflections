@@ -4,3 +4,11 @@ work local?
     So that others can also make changes to our repository, and also, we can
     access our files anywhere.
     
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+	Because if many people are working on a same project, then it is possible
+	that the commits added by other people, might not always be relevant to be
+	added to the original work. So, it should be done manually to ensure only
+	the actual owner can approve changes, and not everyone.
+
