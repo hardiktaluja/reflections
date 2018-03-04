@@ -12,3 +12,14 @@ automatically stay up-to-date with your remote repository?
 	added to the original work. So, it should be done manually to ensure only
 	the actual owner can approve changes, and not everyone.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+	Fork is used when we want to make some changes to some repository, but we
+	don't have permission to do so. It creates same repository in our account.
+	Cloning means copying the repository to our local machine, so that we can
+	make changes. Branch is used when we want to try something new that we are
+	not so sure of. So, we can create a new branch and try the changes. If it
+	gets completed without any errors, we can just merge the branch with the
+	master branch.
+
