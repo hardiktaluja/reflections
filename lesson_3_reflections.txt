@@ -23,3 +23,10 @@ use one instead of another?
 	gets completed without any errors, we can just merge the branch with the
 	master branch.
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+	So that we can see the changes made after the last known state by other
+	people. And we can see them even without internet access, because they will
+	be stored locally. Also, we can	merge them to our local master, and push
+	the changes when we are again connected to the internet.
