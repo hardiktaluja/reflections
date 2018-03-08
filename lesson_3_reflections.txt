@@ -37,3 +37,15 @@ and what would be harder?
 	It would be really difficult to collaborate without GitHub, as every person
 	in the team will have to be present physically to tell what changes need to
 	be made. Nothing would be easier.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+	When we are collaborating with other people, or in someone's repository,
+	then for adding something, or making some changes, then we should create a
+	new branch for the changes. By this way, we can create a pull request, so
+	that the owner of the repository can look out for our changes before
+	merging with the master branch. But, when we are working on our own, then
+	we can directly make changes in the master branch when we are really sure
+	about the change. And if not sure, then we can create a branch until the
+	change gets finalized.
