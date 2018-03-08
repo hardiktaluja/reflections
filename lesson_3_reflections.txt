@@ -30,3 +30,10 @@ stored locally?
 	people. And we can see them even without internet access, because they will
 	be stored locally. Also, we can	merge them to our local master, and push
 	the changes when we are again connected to the internet.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+	It would be really difficult to collaborate without GitHub, as every person
+	in the team will have to be present physically to tell what changes need to
+	be made. Nothing would be easier.
